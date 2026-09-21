@@ -1,2 +1,2 @@
 # java.lab-2
-Homework:)
+Hi, this is my Homework:) 
